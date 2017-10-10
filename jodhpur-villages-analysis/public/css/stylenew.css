@@ -338,6 +338,18 @@ a {
     color: green;
  } 
 
+footer{
+    text-align: center;
+    font-weight: 500;
+    color: black;
+    padding: 8px;
+    margin-top: 8px;
+    background: burlywood;
+ }
+
+footer a{
+    color: #161a85;
+}
 
 
 
