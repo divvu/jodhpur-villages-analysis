@@ -1,6 +1,22 @@
-# jodhpur-villages-analysis
-This project aims to analyse the data and collect important insights from it using various machine learning techniques and algorithms. For this project i have analysed the Jodhpur city's village directory data. I have showed all the resources and facilities provided in each village using an interactive D3 dashboard. Based on this i have predicted which of the villages are developed, developing and non developed.
-
 # App link
 
-This web app can be found at https://jodhpur-villages-analysis.herokuapp.com/
+App can be accessed at https://jodhpur-villages-analysis.herokuapp.com/
+
+# node-js app
+
+A barebones Node.js app using [Express 4](http://expressjs.com/).
+
+## Running Locally
+
+Make sure you have [Node.js](http://nodejs.org/) and installed.
+
+```sh
+$ git clone https://github.com/divvu/jodhpur-villages-analysis.git
+$ cd jodhpur-villages-analysis
+$ npm install
+$ npm start
+```
+
+Your app should now be running on [localhost:5000](http://localhost:5000/).
+
+
